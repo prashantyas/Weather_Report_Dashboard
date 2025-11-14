@@ -46,4 +46,23 @@ This project was created by following a tutorial and customizing it during my le
 ## 📷 Demo / Screenshots
 Add your dashboard screenshots here:
 
+<p align="center">
+  <img src="Report%20SS/ss-1.png" alt="Screenshot 1" width="700"/>
+</p>
+
+<p align="center">
+  <img src="Report%20SS/ss-2.png" alt="Screenshot 2" width="700"/>
+</p>
+
+<p align="center">
+  <img src="Report%20SS/ss-3.png" alt="Screenshot 3" width="700"/>
+</p>
+
+<p align="center">
+  <img src="Report%20SS/ss-4.png" alt="Screenshot 4" width="700"/>
+</p>
+
+<p align="center">
+  <img src="Report%20SS/ss-5.png" alt="Screenshot 5" width="700"/>
+</p>
 
